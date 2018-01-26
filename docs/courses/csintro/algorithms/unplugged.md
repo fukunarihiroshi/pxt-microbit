@@ -107,22 +107,22 @@ Give these 6 conditionals to multiple students.
 * These 6 conditionals may be triggered more than once.
 * Walk around the classroom during the activity to trigger some of these conditionals.
 
-**IF** the teacher says the word ‘popcorn’,<br/>
+**IF** the teacher says the word ‘popcorn’,<br>
 **THEN** stand up and say ‘Pop!’ once and sit back down.
  
-**IF** any student stands up for any reason,<br/>
+**IF** any student stands up for any reason,<br>
 **THEN** clap 3 times.
  
-**IF** anyone writes on the whiteboard with a GREEN marker,<br/>
+**IF** anyone writes on the whiteboard with a GREEN marker,<br>
 **THEN** get up and touch something GREEN in the room and sit back down.
  
-**IF** anyone walks past you while you are seated,<br/>
+**IF** anyone walks past you while you are seated,<br>
 **THEN** snap your fingers 3 times.
  
-**IF** someone snaps their fingers **AND** you have the letter ‘e’ in your first name,<br/>
+**IF** someone snaps their fingers **AND** you have the letter ‘e’ in your first name,<br>
 **THEN** select a book from the bookcase and sit back down.
  
-**IF** anyone writes anything on the whiteboard,<br/>
+**IF** anyone writes anything on the whiteboard,<br>
 **THEN** get up and turn around in place one full turn and sit back down.
  
 =================================================================
